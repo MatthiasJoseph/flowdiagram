@@ -5,15 +5,17 @@
 	    "1": {
 	        "1_20.00": {
 	            "chapter": "Chapter20", 
-	            "subChatper": "SubChapter00", 
+	            "subChapter": "SubChapter00", 
 		    "chapterID": 10,
 	            "ref": [], 
 	            "dataTrackName": "",
+		    "previousSwipe": "", //Matthias, ajout Swipe, auto ou ID
+	 	    "nextSwipe": "", 
 	            "referTo": null
 	        },
 	        "1_50.00": {
 	            "chapter": "Chapter50", 
-	            "subChatper": "SubChapter00", 
+	            "subChapter": "SubChapter00", 
 		    "chapterID": 10,
 	            "ref": ["R.1","R.2","R.3"], 
 	            "dataTrackName": "",
